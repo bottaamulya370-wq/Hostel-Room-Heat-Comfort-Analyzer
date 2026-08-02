@@ -1,0 +1,23 @@
+.stMetric{
+    background:white;
+    padding:15px;
+    border-radius:15px;
+    border:1px solid #e5e7eb;
+    box-shadow:0 2px 8px rgba(0,0,0,.08);
+}
+
+.block-container{
+    padding-top:2rem;
+}
+
+h1{
+    color:#2563eb;
+}
+
+[data-testid="stSidebar"]{
+    background:#0F172A;
+}
+
+[data-testid="stSidebar"] *{
+    color:white;
+}
